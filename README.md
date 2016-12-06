@@ -1,2 +1,2 @@
 # PVCS
-To replace PVCS with GitHub
+To replace PVCS with GitHub, GitHub is opensource
